@@ -7,6 +7,8 @@ XGBoost.jl
 
 eXtreme Gradient Boosting Package in Julia
 
+This fork is used to test my codes.
+
 ## Abstract
 
 This package is a Julia interface of [XGBoost](https://github.com/tqchen/xgboost),
